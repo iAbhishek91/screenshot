@@ -1,0 +1,11 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iAbhishek91/screenshot.git",
+  "author": "doctorD <abhi.das2007das@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
